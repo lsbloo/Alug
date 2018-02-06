@@ -1,0 +1,37 @@
+		#Projeto Alug -Osvaldo'
+1) Requisitos Funcionais
+	# Cadastro de Usuario-Cliente ( Solicitacao de nome,(login,senha)..,contato(Telefone Celular ou Email), Endereco..)
+	# Login de Cliente exigido Login e Senha quanto solicitados , caso nao exista cliente deve se cadastrar !
+	# Inicializacao da aplicação com uma tela Splash Screen (Tela de carregamento Inicial).
+	# Permissioes dos usuarios cadastrados (Adicionar sua casa e remover sua casa caso necessario) // Somente o usuario em questao
+	  pode interferir no seus dados publicados.
+	# Tela de cadastro de casas para cada usuario em questão , onde é pertimitdo adicionar ou remover sua casa..
+	# Solicitacao de dados de uma casa(Nome proprietario,Contato propietario,Localizacao(Endereco,Bairro,NumeroCasa),Foto da casa.
+	# Verificacao de casas já alugadas, quando o cliente "marca sua casa" entao ela pode ser automaticamente removida da lista de casas.
+	# Liberacao de espacos para outras casas.
+	# Armazenamento de dados e autenticacao de usuarios com Firebase.				
+
+2) Requisitos nao Funcionais
+	# Verificao de conexao com internet.
+	# Verificao de listas de casas alugadas atualizadas quando houver conexao com internet.
+	# Becape de dados (Clientes,Casas).
+	# Tratamento de possiveis erros como entradas do usuario invalidas.
+	# tramento de telas em Screen Orientation: vertical , para a nao destruicao de Activitys.
+
+3) Semelhancas e diferencas entre sistemas
+	# Esperando o feedback dos participantes do projeto.
+	#	(há incrementar.!)
+	#
+4) Desing das aplicacoes e sistemas
+	# Splash Screen(Tela de carregamento) Muito utilizada em aplicativos para gerar um carregamento de dados <- (Nao visiveis para o usuario)
+	# Fragments e ActionBar
+	# Imagens de exemplos na Pasta ImagensDesign.
+
+5) Proposta do Projeto e do Produto
+	# 	Projeto Alug
+	#--------------: Alug tem como objetivo facilitar a pesquisa de casas em Rio tinto (a priori).., onde o usuario é livre para cadastrar
+	suas casas e como tambem ter informações sobre outras casas para alugar, gerando assim uma rotatividade maior entre os alugueis de
+	casas na cidade de rio tinto.
+	###############################################################################################
+	# // Nosso produto consistem em um apk para android NATIVO , que automatize essas informações e "facilite" esse modelo de negocio
+	que é promissor em Rio tinto , visto que a demanda de estudantes e turistas para tais residencias aumenta cada vez mais.
