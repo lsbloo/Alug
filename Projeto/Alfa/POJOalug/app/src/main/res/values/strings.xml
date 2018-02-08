@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">POJOalug</string>
+    <string name="nome_logo">Carregando !</string>
+    <string name="logo">LogoApp</string>
+    <string name="login">Digite seu login</string>
+    <string name="senha">Digite sua senha</string>
+</resources>
