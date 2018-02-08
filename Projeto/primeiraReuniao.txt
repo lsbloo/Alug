@@ -26,6 +26,9 @@
 	# Splash Screen(Tela de carregamento) Muito utilizada em aplicativos para gerar um carregamento de dados <- (Nao visiveis para o usuario)
 	# Fragments e ActionBar
 	# Imagens de exemplos na Pasta ImagensDesign.
+	# 4 Activie
+	# 3 Fragments
+	# estrelas de avaliacao da casas 5(estrelas
 
 5) Proposta do Projeto e do Produto
 	# 	Projeto Alug
