@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------
+Ferramentas(Tecnologias) utilizadas no Projeto Alug ##
+-------------------------------------------------------------------------
+
+# Controle de tarefas dos integrantes ( MS EXCEL )
+# Controle de versao github
+# Desenvolvimento nativo Java (AndroidStudio)
+	* Activity
+	* Fragments
+	* Firebase - Storage
+	* Firebase - Database
+# Criacao de UML com Dia
+# Requisitos Microsoft Word 
+# Testes de Unidade - JUNIT
+# Revisao de codigo GITHUB
+# Api google Firebase
+# API picasso
+# Contribuidores androidarsenal.com.br
