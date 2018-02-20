@@ -1,0 +1,23 @@
+União de requisitos.
+
+	(CRUD)FUNCIONAL.
+	# Autenticacao de usuario/senha
+	# Cadastro de usuario
+	# Fazer logout da aplicação
+	# (Cadastro da casa).Adicionar/Remover Casa.
+	# Editar informações da casa
+	# Tratamento de possiveis erros como entrada de usuario invalidas.
+	
+	
+	CONEXÃO (Funcional)
+	#Atualizacao dos dados em um tempo X
+	#Verificação com a internet.
+	#Obrigatoriedade de autenticação.	
+	
+	Tela. Funcional.
+	#Screen Orientation POrtrait 
+	#Garantir que as telas sejam adaptadas para os smartphones mais utilizados (Samsung,Motorola).
+	
+	Segurança (Nao funcional)
+	#Nao permitir informacoes privadas de outros usuarios.
+	
